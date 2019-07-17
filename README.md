@@ -20,3 +20,17 @@ Missing attribute values: none
 Class distribution: 357 benign, 212 malignant
 
 Link to dataset on Kaggle: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+
+## Data
+
+<img src="https://github.com/architgajpal/breast_cancer_prediction/blob/master/captured_outputs/BCP1.JPG" width="100%">
+
+### Comparison of some Classification algorithms:
+<img src="https://github.com/architgajpal/breast_cancer_prediction/blob/master/captured_outputs/BCP2.JPG" width="100%">
+<img src="https://github.com/architgajpal/breast_cancer_prediction/blob/master/captured_outputs/BCP3.JPG" width="100%">
+
+## Results
+
+Using KNearest Neighbors Classification, a good accuracy is obtained on the dataset. Here is the accuracy metric:
+<img src="https://github.com/architgajpal/breast_cancer_prediction/blob/master/captured_outputs/BCP4.JPG" width="100%">
